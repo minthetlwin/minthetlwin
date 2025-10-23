@@ -2,7 +2,7 @@
 
 ![Cute Coding GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)
 
-✨ **Junior Frontend Developer | React.js & Laravel**  
+✨ **Junior Fullstack Developer | React.js & Laravel**  
 💻 Passionate about building **interactive web apps**  
 🌱 Currently exploring **MERN Stack & AI projects**  
 🌍 Portfolio: [https://minthetlwin.site](https://minthetlwin.site)  
@@ -38,15 +38,14 @@ I love building **Telegram bots**, **learning platforms**, and **startup apps**.
 ---
 
 ## 📊 GitHub Stats
-
-![Min Thet Lwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=minthetlwin&show_icons=true&theme=radical&hide_border=true)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minthetlwin&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: minthetlwin@example.com  
-- 💬 Telegram: [@minthetlwin](https://t.me/minthetlwin)  
+- ✉️ Email: minnthetlwinmtll31@gmail.com 
+- 💬 Telegram: [@sacrerex](https://t.me/sacrerex)  
 - 🌐 Portfolio: [https://minthetlwin.site](https://minthetlwin.site)  
 
 ---
