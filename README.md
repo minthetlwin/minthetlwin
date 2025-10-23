@@ -45,20 +45,18 @@ I love building **Telegram bots**, **learning platforms**, and **startup apps**.
 
 ---
 
-## 📫 Contact Me
-<p align="center">
-✉️ Email: minnthetlwinmtll31@gmail.com  
-💬 Telegram: <a href="https://t.me/sacrerex">@sacrerex</a>  
-🌐 Portfolio: <a href="https://minthetlwin.site">minthetlwin.site</a>
-</p>
+## 📊 GitHub Stats
+
+![Min Thet Lwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=minthetlwin&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minthetlwin&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🌟 Fun Badges & Visitors
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/minthetlwin/count.svg)  
-![Profile Views](https://komarev.com/ghpvc/?username=minthetlwin&color=blueviolet)
-</p>
+## 📫 Contact Me
+- ✉️ Email: minnthetlwinmtll31@gmail.com  
+- 💬 Telegram: [@sacrerex](https://t.me/sacrerex)  
+- 🌐 Portfolio: [https://minthetlwin.site](https://minthetlwin.site)  
 
 ---
 
