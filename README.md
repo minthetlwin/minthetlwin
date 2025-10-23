@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Min Thet Lwin
 
 <p align="center">
-  <img src="https://github.com/minthetlwin/minthetlwin/blob/main/e365e034938099.56e31c3cb169f.gif" alt="Cute Coding GIF" width="300"/>
+  <img src="https://github.com/minthetlwin/minthetlwin/blob/main/e365e034938099.56e31c3cb169f.gif?raw=true" alt="Cute Coding GIF" width="300"/>
 </p>
 
 ✨ **Junior Fullstack Developer | React.js & Laravel**  
@@ -35,10 +35,30 @@
 
 ---
 
+## 🤖 Fun Projects
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Telegram Bot GIF" width="250"/>
+</p>
+<p align="center">
+I love building **Telegram bots**, **learning platforms**, and **startup apps**. 🚀
+</p>
+
+---
+
 ## 📫 Contact Me
-- ✉️ Email: minnthetlwinmtll31@gmail.com  
-- 💬 Telegram: [@sacrerex](https://t.me/sacrerex)  
-- 🌐 Portfolio: [https://minthetlwin.site](https://minthetlwin.site)  
+<p align="center">
+✉️ Email: minnthetlwinmtll31@gmail.com  
+💬 Telegram: <a href="https://t.me/sacrerex">@sacrerex</a>  
+🌐 Portfolio: <a href="https://minthetlwin.site">minthetlwin.site</a>
+</p>
+
+---
+
+## 🌟 Fun Badges & Visitors
+<p align="center">
+![Visitor Count](https://profile-counter.glitch.me/minthetlwin/count.svg)  
+![Profile Views](https://komarev.com/ghpvc/?username=minthetlwin&color=blueviolet)
+</p>
 
 ---
 
