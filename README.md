@@ -36,11 +36,9 @@
 ---
 
 ## 📫 Contact Me
-<p align="center">
-✉️ Email: minnthetlwinmtll31@gmail.com  
-💬 Telegram: <a href="https://t.me/sacrerex">@sacrerex</a>  
-🌐 Portfolio: <a href="https://minthetlwin.site">minthetlwin.site</a>
-</p>
+- ✉️ Email: minnthetlwinmtll31@gmail.com  
+- 💬 Telegram: [@sacrerex](https://t.me/sacrerex)  
+- 🌐 Portfolio: [https://minthetlwin.site](https://minthetlwin.site)  
 
 ---
 
