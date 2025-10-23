@@ -35,16 +35,6 @@
 
 ---
 
-## 🤖 Fun Projects
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Telegram Bot GIF" width="250"/>
-</p>
-<p align="center">
-I love building **Telegram bots**, **learning platforms**, and **startup apps**. 🚀
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 ![Min Thet Lwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=minthetlwin&show_icons=true&theme=radical&hide_border=true)
