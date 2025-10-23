@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Min Thet Lwin
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e365e034938099.56e31c3cb169f.gif" alt="Cute Coding GIF" width="300"/>
+  <img src="https://github.com/minthetlwin/minthetlwin/blob/main/e365e034938099.56e31c3cb169f.gif" alt="Cute Coding GIF" width="300"/>
 </p>
 
 ✨ **Junior Fullstack Developer | React.js & Laravel**  
