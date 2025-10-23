@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Min Thet Lwin
 
-![Cute Coding GIF]([https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffunniest-animated-gifs-of-the-week-8--380694974733006480%2F&psig=AOvVaw15s187wtZLQOOMjb7O14wx&ust=1761322206391000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiB7NjaupADFQAAAAAdAAAAABAc))
+![Cute Coding GIF](https://i.pinimg.com/originals/46/41/61/4641611401ecb508c625eebe448da663.gif)
 
 ✨ **Junior Fullstack Developer | React.js & Laravel**  
 💻 Passionate about building **interactive web apps**  
