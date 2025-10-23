@@ -38,7 +38,7 @@ I love building **Telegram bots**, **learning platforms**, and **startup apps**.
 ---
 
 ## 📊 GitHub Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=minthetlwin&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minthetlwin&layout=compact&theme=radical&hide_border=true)
 
 ---
