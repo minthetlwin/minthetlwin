@@ -10,24 +10,25 @@
 ---
 
 ## 🛠 Tech Stack
-*I love leveraging the right tools for the right job. My toolkit is constantly evolving as I explore new horizons.*
+*Everything I use to bring ideas to life, from core languages to deployment.*
 
-### 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
-### 🖥 Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Laravel-FB503B?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <!-- Core Languages (Large Icons) -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=30" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=30" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=30" />
+  <br><br>
+  <!-- Frameworks (Medium Icons) -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Laravel-FB503B?style=flat&logo=laravel&logoColor=white&logoWidth=20" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&logoWidth=20" />
+  <br><br>
+  <!-- Tools (Tiny Icons) -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoWidth=12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoWidth=12" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white&logoWidth=12" />
 </p>
 
 ---
@@ -48,8 +49,6 @@
 ---
 
 ## 📫 Let's Connect!
-*I'm always open to discussing tech, new opportunities, or interesting project ideas.*
-
 - ✉️ **Email:** [minnthetlwinmtll31@gmail.com](mailto:minnthetlwinmtll31@gmail.com)
 - 💬 **Telegram:** [@sacrerex](https://t.me/sacrerex)
 - 🌐 **Portfolio:** [minthetlwin.site](https://minthetlwin.site)
